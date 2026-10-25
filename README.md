@@ -6,17 +6,19 @@ El material utiliza principalmente los esquemas de ejemplo **Northwind** y **Del
 
 Estos ejercicios prácticos fueron realizados durante el cursado de diversas materias mientras estudiaba la **Licenciatura en Análisis de Sistemas (Plan 2010)** de la **Universidad Nacional de Salta**.
 
-**Materia:** ______________________________
+**Materia: Base de Datos I & II**
 
 ## Contenido
 
-- [Estructura](#estructura)
-- [Trabajos prácticos principales](#trabajos-prácticos-principales)
-- [Material de introducción](#material-de-introducción)
-- [Requisitos y preparación](#requisitos-y-preparación)
-- [Cómo trabajar con los ejercicios](#cómo-trabajar-con-los-ejercicios)
-- [Estado y limitaciones](#estado-y-limitaciones)
-- [Licencia](#licencia)
+- [SQL Queries — Consultas y programación en PostgreSQL](#sql-queries--consultas-y-programación-en-postgresql)
+  - [Contenido](#contenido)
+  - [Estructura](#estructura)
+  - [Trabajos prácticos principales](#trabajos-prácticos-principales)
+  - [Material de introducción](#material-de-introducción)
+  - [Requisitos y preparación](#requisitos-y-preparación)
+  - [Cómo trabajar con los ejercicios](#cómo-trabajar-con-los-ejercicios)
+  - [Estado y limitaciones](#estado-y-limitaciones)
+  - [Licencia](#licencia)
 
 ## Estructura
 
